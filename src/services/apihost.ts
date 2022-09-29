@@ -1,0 +1,1 @@
+export default 'http://ec2-3-17-160-21.us-east-2.compute.amazonaws.com:2002/api/';
